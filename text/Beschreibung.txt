@@ -1,0 +1,18 @@
+Dieser Kurs wendet sich in erste Linie an Studierende, die mit Daten zu tun hatten, zu tu haben werden oder sich einfach für Data Science interessieren.
+
+Python ist neben R die hierfür geeignetste Programmiersprache. In diesem Kurs erlernen Sie Daten zu analysieren, visualisieren, kategorisieren und Prognosen zu erstellen. Hierbei wird Wert darauf gelegt, dass der grundlegende Python Befehlssyntax nach und nach eingeführt wird, sodass auch Studierende mit Programmiervorkenntnissen bei jeder Kurseinheit etwas dazu lernen und alle anderen nicht überfordert werden.
+
+Das Hauptaugenmerk liegt auf dem Erlernen von Machine Learning Algorithmen. Sie beschäftigen sich mit klassischen Methoden wie Logistic Regression und Linear Regression, später mit Random Forest, Zeitreihenanalyse, Clustering und neuronalen Netzen. Dabei gehen Sie immer wie folgt vor:
+
+- Inspizieren der Daten: Korrelationsanalyse, irrelevante Features
+- Trainieren der Algorithmen auf Trainingsdaten
+- Auswerten der Algorithmen auf Testdaten
+- Einstellen der Hyperparameter
+- Cross Validation: Vermeidung zu günstig ausgewählter Trainings/Testdaten
+- Anwenden des trainierten Algorithmus auf noch unbekannte Daten
+
+
+Anfänglich arbeiten Sie mit jupyter notebooks, die in der Data Science Community weit verbreitet sind. Später werden Sie eine "streamlit" App erstellen, die insbesondere für Präsentationen geeignet ist. Außerdem eignet sich streamlit hervorragend als Frontend für jeden Python Code. Es ist einfach zu bedienen, kein Html, kein CSS.
+
+
+Am Ende des Kurses ist jeder in der Lage, Daten seines Fachbereichs zu analysieren und Prognosen zu erstellen. 
