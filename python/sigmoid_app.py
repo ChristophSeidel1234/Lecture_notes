@@ -51,6 +51,7 @@ axs.set_xlabel('X')
 axs.set_ylabel('Y')
 axs.set_zlabel('Sigmoid Value')
 axs.set_title('3D Sigmoid Function')
-
+print('Hi')
 st.pyplot(fig)
+
 
